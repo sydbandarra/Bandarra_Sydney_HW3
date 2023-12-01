@@ -55,7 +55,8 @@ www.fanshawec.ca
 London, Ontario is located on the traditional lands of the Anishinaabek, Haudenosaunee, Lūnaapéewak and Attawandaron peoples. This land continues to be home to diverse Indigenous peoples, whom we recognize as contemporary stewards of the land, vital contributors of our society, and deserving of sovereignty and reconciliation.
 
 ### Credits
-**Images sourced from:** https://unsplash.com/
+**Images sourced from:** https://unsplash.com/ and https://freepik.com/
+
 - Photo by Diliara Garifullina on Unsplash (choux_pastry.jpg)
 https://unsplash.com/photos/brown-cookies-on-gray-textile-JKQeWF39NdA?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
 
@@ -68,7 +69,9 @@ https://unsplash.com/photos/black-and-brown-heart-shaped-decor-LjzAqkZnGFM?utm_c
 - Photo by Corleto Peanut butter on Unsplash (peanut_butter_mousse.jpg)
 https://unsplash.com/photos/peanut-butter-with-black-spoon-u256GzFi7Gw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
 
-- (bakery_logo.jpg) https://masterbundles.com/gulrasheed63/bakery-logo-sweet-bakery-logo-bakery-editable-resizable-logo-design-ai-eps/
+- (Image by rawpixel.com on Freepik (bakery_logo.jpg)
+https://www.freepik.com/free-vector/fresh-bakery-pastry-shop-logo-vector_4043519.htm#query=home%20bakery%20logo&position=21&from_view=keyword&track=ais&uuid=fc7801ad-3cd1-40c9-b006-ae985b892b0a
+
 
 **Recipes Sourced From:**
 - https://sallysbakingaddiction.com/homemade-eclairs/#tasty-recipes-66688
