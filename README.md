@@ -55,8 +55,20 @@ www.fanshawec.ca
 London, Ontario is located on the traditional lands of the Anishinaabek, Haudenosaunee, Lūnaapéewak and Attawandaron peoples. This land continues to be home to diverse Indigenous peoples, whom we recognize as contemporary stewards of the land, vital contributors of our society, and deserving of sovereignty and reconciliation.
 
 ### Credits
-**Images sourced from:** https://www.pexels.com/
-- paste pexels image links here
+**Images sourced from:** https://unsplash.com/
+- Photo by Diliara Garifullina on Unsplash (choux_pastry.jpg)
+https://unsplash.com/photos/brown-cookies-on-gray-textile-JKQeWF39NdA?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+- Photo by Diliara Garifullina on Unsplash (chocolate_eclairs.jpg)
+https://unsplash.com/photos/brown-bread-on-white-ceramic-plate-4EM7wIz-_8I?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+- Photo by Kier in Sight Archives on Unsplash (chocolate_ganache.jpg)
+https://unsplash.com/photos/black-and-brown-heart-shaped-decor-LjzAqkZnGFM?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+- Photo by Corleto Peanut butter on Unsplash (peanut_butter_mousse.jpg)
+https://unsplash.com/photos/peanut-butter-with-black-spoon-u256GzFi7Gw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+
+- (bakery_logo.jpg) https://masterbundles.com/gulrasheed63/bakery-logo-sweet-bakery-logo-bakery-editable-resizable-logo-design-ai-eps/
 
 **Recipes Sourced From:**
 - https://sallysbakingaddiction.com/homemade-eclairs/#tasty-recipes-66688
