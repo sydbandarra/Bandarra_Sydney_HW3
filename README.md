@@ -1,6 +1,7 @@
 # BANDARRA SYDNEY HOMEWORK 3
-## Welcome to My Respository: Homemade Chocolate Eclairs with Peanut Butter Mousse Filling
+## Welcome to My Respository: A Recipe for Homemade Chocolate Eclairs with Peanut Butter Mousse Filling
  **HW #3 – CSS CASCADE, SELECTION & PSEUDO SELECTORS**
+
 MMED-1054 Homework 3 - To-Do-List
 
 ![chocolate_eclairs](images/chocolate_eclairs.jpg)
