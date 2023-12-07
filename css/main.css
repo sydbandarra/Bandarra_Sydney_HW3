@@ -70,6 +70,88 @@ header nav li:hover {
 }
 
 
+main {
+    display: flex; /*turn the container of main into a flex container*/
+    justify-content: center; /*centre content in the top middle*/
+    flex-wrap: wrap;/*flex box defaults the elements to display in a row, flex warp allows the content to stack as the borwser window shrinks*/
+}
+
+
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    padding: 6px 8px; /*TB RL*/
+    border: none;
+}
+
+article {
+    width: 400px;
+    margin: 28px;
+    text-align: left;
+}
+
+article li {
+    padding: 20px;
+}
+
+
+article li:hover {
+    background-color: white;
+}
+
+
+article > h2 {
+    padding: 20pt;
+    text-align: center;
+}
+
+
+
+article:first-of-type {
+    background-color: #AE7937;
+}
+
+#pb-mousse {
+    background-color: #BA6F45;
+}
+
+#chocolate-ganache {
+    background-color: #C26752;
+}
+
+ 
+
+.choux-pastry-instructions li:nth-child(odd) {
+    background-color: #D1A368;
+    padding: 20px;
+}
+
+.choux-pastry-instructions li:hover {
+    background-color: white;
+}
+
+.pb-mousse-instructions li:nth-child(odd) {
+    background-color: #DC9B75;
+    padding: 20px;
+}
+
+.pb-mousse-instructions li:hover {
+    background-color: white;
+}
+
+.chocolate-ganache-instructions li:nth-child(odd) {
+    background-color: #E39581;
+    padding: 20px;
+}
+
+.chocolate-ganache-instructions li:hover {
+    background-color: white;
+}
+   
+
 
 
 #bottom-nav {
