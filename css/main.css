@@ -1,3 +1,156 @@
 .hidden {
     display: none;
 }
+
+/*reset brower settings*/
+* /* * selector selects all tags*/ {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+
+html, body /*select both html and body element and giving it a heigh of 100%= content will fill browser height*/{
+    height: 100%;
+}
+
+body {
+    /*style text*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3D2E1B;
+    font-size: 16pt;
+    /*style background*/
+    background-image: url(../images/chocolate_eclairs.jpg); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+body h2 {
+    font-size: 28pt;
+}
+
+body article ul li {
+    font-size: 16pt;
+    list-style-type: none;
+    line-height: 22pt;
+}
+
+header {
+    background-color: #DC9B75;
+    position: sticky;
+    top: 0;
+    align-items: center;
+    padding-right: 60px;
+    display: flex; /*forces logo to display in a row with the nav element taking up only as much space as needed*/
+}
+
+header nav {
+    margin-left: auto; /*pushes the nav to the far side on the header flex container*/
+}
+
+header nav ul {
+    list-style-type: none; 
+}
+
+header nav ul li {
+    display: inline; /*makes the list items display beside eachother instead of stacking*/
+    margin: 0 20px; /*spread out the items*/
+    cursor: pointer;
+    font-size: 20pt;
+}
+
+header li:last-of-type::after /*look for the last list item in the header nav and add thee unicode value for an arrow*/{
+    content: "\25bc"; /*unicode for an arrow*/
+    padding-left: 4px;
+}
+
+header nav li:hover {
+    opacity: o.8;
+    color: white;
+}
+
+
+
+
+#bottom-nav {
+    list-style-type: none;
+}
+
+#bottom-nav-box {
+    background-color: #DC9B75;
+    padding: 24pt;
+}
+
+.bottom-nav ul li {
+    font-size: 16pt;
+    display: inline; 
+    margin: 30px; 
+    cursor: pointer;
+    padding-bottom: 20pt;
+}
+
+
+#instructions-box {
+    background-color: rgba(194, 103, 82, 0.65);
+    padding: 36pt;
+}
+
+
+.instructions {
+    color: white;
+    text-align: center;
+}
+
+.instructions h3 {
+    font-size: 28pt;
+    line-height: 38pt;
+}
+
+.instructions p {
+    font-size: 24pt;
+    line-height: 38pt;
+    padding-top: 30pt;
+}
+
+#footer-container {
+    background-color: #BA6F45;
+    padding: 36pt;
+}
+
+.credits {
+    padding: 18pt;
+}
+
+.credits p {
+    font-size: 16pt;
+    padding: 18pt;
+    line-height: 26pt;
+}
+
+#copy {
+    font-size: 12pt;
+    padding: 18pt;
+}
+
+#footer-nav {
+    list-style-type: none; 
+    margin-top: 45px;
+    display: inline; 
+    margin: 0 8px; 
+    cursor: pointer;
+}
+
+footer nav li:hover {
+    opacity: o.8;
+    color: white;
+}
+
+footer {
+    text-align: center;   
+}
+
+.sticky-footer {
+    position: sticky;
+    top: 100%;
+    height: 80px;
+}
