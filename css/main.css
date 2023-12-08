@@ -84,8 +84,8 @@ input[type="checkbox"] {
 input[type="checkbox"]:checked + span::after /*target the input type checkbox when it is selected it will target the span and place it after the span*/ {
     content: "\2B50"; /*unicode for a checkmark*/
     position: absolute; /*checkbox will position itself top right of the container*/
-    top: 1px;
-    /*right: 1px;*/
+    top: 25px;
+    right: 1px;
     font-size: 45pt;
     animation: fadeIn 0.7s; /*link animation to keyframes*/
 }
