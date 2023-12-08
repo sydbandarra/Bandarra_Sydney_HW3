@@ -184,6 +184,15 @@ article:first-of-type {
 .chocolate-ganache-instructions li:hover {
     background-color: white;
 }
+
+#pb-mousse {
+    height: 1100px;
+}
+
+#chocolate-ganache {
+    height: 1000px;
+}
+
    
 
 
