@@ -76,6 +76,24 @@ main {
     flex-wrap: wrap;/*flex box defaults the elements to display in a row, flex warp allows the content to stack as the borwser window shrinks*/
 }
 
+input[type="checkbox"] {
+    width: 12pt;
+    height: 12pt;
+}
+
+input[type="checkbox"]:checked + span::after /*target the input type checkbox when it is selected it will target the span and place it after the span*/ {
+    content: "\2B50"; /*unicode for a checkmark*/
+    position: absolute; /*checkbox will position itself top right of the container*/
+    top: 1px;
+    /*right: 1px;*/
+    font-size: 45pt;
+    animation: fadeIn 0.7s; /*link animation to keyframes*/
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}    
+}
 
 
 ul {
