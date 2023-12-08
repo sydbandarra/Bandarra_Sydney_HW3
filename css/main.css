@@ -41,6 +41,7 @@ header {
     top: 0;
     align-items: center;
     padding-right: 60px;
+    z-index: 2;
     display: flex; /*forces logo to display in a row with the nav element taking up only as much space as needed*/
 }
 
@@ -84,9 +85,12 @@ input[type="checkbox"] {
 input[type="checkbox"]:checked + span::after /*target the input type checkbox when it is selected it will target the span and place it after the span*/ {
     content: "\2B50"; /*unicode for a checkmark*/
     position: absolute; /*checkbox will position itself top right of the container*/
-    top: 25px;
-    right: 1px;
+    width: 25px;
+    height: 25px;
+    top: 1px;
+    right: 16px;
     font-size: 45pt;
+    position: absolute;
     animation: fadeIn 0.7s; /*link animation to keyframes*/
 }
 
@@ -138,6 +142,18 @@ article:first-of-type {
 
 #chocolate-ganache {
     background-color: #C26752;
+}
+
+.choux-pastry-instructions li {
+    position: relative;
+}
+
+.pb-mousse-instructions li {
+    position: relative;
+}
+
+.chocolate-ganache-instructions li {
+    position: relative;
 }
 
  
