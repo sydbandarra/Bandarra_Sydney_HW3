@@ -70,6 +70,17 @@ header nav li:hover {
     color: white;
 }
 
+.header-title {
+    text-align: center;
+    padding: 40px;
+    margin: 55px auto 30px;
+}
+
+.header-title h2 {
+    font-size: 55px;
+    line-height: 65px;
+    color: white;
+}
 
 main {
     display: flex; /*turn the container of main into a flex container*/
@@ -218,6 +229,7 @@ article:first-of-type {
 #instructions-box {
     background-color: rgba(194, 103, 82, 0.65);
     padding: 36pt;
+    margin-top: 75px;
 }
 
 
